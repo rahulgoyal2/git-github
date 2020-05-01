@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 checking the info, chang edone
+=======
+for testing
+>>>>>>> testing
